@@ -188,5 +188,25 @@ Configure Prometheus as a data source in Grafana:
 
 ## Conclusion
 Prometheus is a powerful tool for monitoring Linux systems, enabling real-time insights and alerting capabilities. By following this guide, you can set up a robust monitoring infrastructure with Prometheus, Node Exporter, and Grafana.
+## prometheus matric 
+![prometheus matric](https://github.com/rukevweubio/Prometheus-Setup-and-Configuration-for-Linux-System-Monitoring/blob/main/Screenshot%20(479).png)
+
+![prometheus matric](https://github.com/rukevweubio/Prometheus-Setup-and-Configuration-for-Linux-System-Monitoring/blob/main/Screenshot%20(480).png)
+
+![prometheus matric](https://github.com/rukevweubio/Prometheus-Setup-and-Configuration-for-Linux-System-Monitoring/blob/main/Screenshot%20(481).png)
+
+![prometheus matric](https://github.com/rukevweubio/Prometheus-Setup-and-Configuration-for-Linux-System-Monitoring/blob/main/Screenshot%20(482).png)
+## premetheus config file
+![prometheus matric](https://github.com/rukevweubio/Prometheus-Setup-and-Configuration-for-Linux-System-Monitoring/blob/main/Screenshot%20(484).png)
+## mysql_exporter
+
+![prometheus matric](https://github.com/rukevweubio/Prometheus-Setup-and-Configuration-for-Linux-System-Monitoring/blob/main/Screenshot%20(486).png)
+## mysql_siervice
+
+![prometheus matric](https://github.com/rukevweubio/Prometheus-Setup-and-Configuration-for-Linux-System-Monitoring/blob/main/Screenshot%20(487).png)
+## mysqlconfig_file
+
+![prometheus matric](https://github.com/rukevweubio/Prometheus-Setup-and-Configuration-for-Linux-System-Monitoring/blob/main/Screenshot%20(488).png)
+
 
 
